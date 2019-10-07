@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\yarf2\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\yarf2\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_larsena1-vr-project.-911179302.00" t="ExcludeRecursive" />
+    <e p="C:\Users\yarf2\Documents\college\sophomore-year\CSE490j\CSE490j\larsena1-vr-project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="larsena1-vr-project.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
