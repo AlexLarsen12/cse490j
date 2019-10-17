@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\yarf2\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\yarf2\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_larsena1-vr-project.-911179302.00" t="ExcludeRecursive" />
-    <e p="C:\Users\yarf2\Documents\college\sophomore-year\CSE490j\CSE490j\larsena1-vr-project" t="IncludeRecursive">
+    <e p="C:\Users\yarf2\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_larsena1-vr-project.-1597066526.00" t="ExcludeRecursive" />
+    <e p="C:\Users\yarf2\Desktop\College Stuff\sophomore-year\CSE490j\CSE490j\larsena1-vr-project" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -285,6 +285,7 @@
                 <e p="CloudStorageMetadata.cs" t="Include" />
                 <e p="CloudStorageUpdateResponse.cs" t="Include" />
                 <e p="DeserializeableList.cs" t="Include" />
+                <e p="Destination.cs" t="Include" />
                 <e p="Error.cs" t="Include" />
                 <e p="HttpTransferUpdate.cs" t="Include" />
                 <e p="InstalledApplication.cs" t="Include" />
@@ -450,6 +451,11 @@
               <e p="TouchControllers" t="Include">
                 <e p="TouchController.cs" t="Include" />
               </e>
+              <e p="Video" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AndroidVideoEditorUtil.cs" t="Include" />
+                </e>
+              </e>
             </e>
             <e p="Editor" t="Include">
               <e p="BuildAssetPackages.cs" t="Include" />
@@ -541,6 +547,7 @@
               <e p="ONSPPropagationInterface.cs" t="Include" />
               <e p="ONSPPropagationMaterial.cs" t="Include" />
               <e p="ONSPPropagationSettings.cs" t="Include" />
+              <e p="ONSPSettings.cs" t="Include" />
               <e p="ONSPVersion.cs" t="Include" />
             </e>
           </e>
@@ -564,6 +571,7 @@
           <e p="VR" t="Include">
             <e p="Editor" t="Include">
               <e p="AndroidManifest.OVRSubmission.xml" t="Include" />
+              <e p="network_sec_config.xml" t="Include" />
               <e p="OVRADBTool.cs" t="Include" />
               <e p="OVRBuild.cs" t="Include" />
               <e p="OVRConfig.cs" t="Include" />
