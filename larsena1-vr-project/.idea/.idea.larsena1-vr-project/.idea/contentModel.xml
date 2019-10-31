@@ -688,6 +688,9 @@
         <e p="Sci-Fi Styled Modular Pack" t="Include">
           <e p="README.txt" t="Include" />
         </e>
+        <e p="Scripts" t="Include">
+          <e p="PlayerControllerNew.cs" t="Include" />
+        </e>
       </e>
       <e p="larsena1-vr-project.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
