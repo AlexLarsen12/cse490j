@@ -54,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControllerNew.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -70,6 +70,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.lightweight@6.9.0/Shaders/Lit.shader">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -169,12 +174,12 @@
       <workItem from="1570142619051" duration="638000" />
       <workItem from="1571260757361" duration="187000" />
       <workItem from="1572485611308" duration="365000" />
-      <workItem from="1572486000629" duration="1028000" />
+      <workItem from="1572486000629" duration="1333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2218000" />
+    <option name="totallyTimeSpent" value="2523000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -638,6 +643,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.lightweight@6.9.0/Shaders/Lit.shader">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
